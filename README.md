@@ -134,4 +134,9 @@ streamlit run app.py
 - Farmer profile and history tracking
 ---
 ## 👥 Team Information
-Project : HarvestIQ -
+Project: HarvestIQ 
+Team: Team ARR
+Team Members: 
+  Rohith. V (Team lead)
+  Reanna. J
+  Abhikishore.N
