@@ -103,7 +103,7 @@ HarvestIQ/
 ## Installation Instructions
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/HarvestIQ.git
+git clone https://github.com/Reanna-J/HarvestIQ.git
 ```
 Navigate to the project directory:
 ```bash
