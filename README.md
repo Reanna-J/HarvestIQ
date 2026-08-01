@@ -3,6 +3,7 @@ AI-Powered Predictive Crop Advisory System
 
 HarvestIQ is an innovative agricultural decision support system that utilizes Machine Learning, Retrieval Augmented Generation, and Large Language Models to give recommendations on crop management
 The system was implemented through a Streamlit dashboard that provides yield prediction, AI-powered recommendations grounded in real agricultural documents, and a contextual chatbot
+
 ---
 ## Features
 - Crop Yield Prediction using ML
